@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Id>4</Id>
+    <FirstName>Harrison</FirstName>
+    <Lastname>Ford</Lastname>
+    <Comments />
+    <Math>5</Math>
+    <Technology>5</Technology>
+    <Physics>5</Physics>
+    <PolishLang>5</PolishLang>
+    <ForeignLang>5</ForeignLang>
+    <AdditionalActivities>true</AdditionalActivities>
+    <GroupID>1 B</GroupID>
+  </Student>
+  <Student>
+    <Id>7</Id>
+    <FirstName>Al</FirstName>
+    <Lastname>Capone</Lastname>
+    <Comments />
+    <Math>4</Math>
+    <Technology>4</Technology>
+    <Physics>4</Physics>
+    <PolishLang>4</PolishLang>
+    <ForeignLang>4</ForeignLang>
+    <AdditionalActivities>true</AdditionalActivities>
+    <GroupID>1 C</GroupID>
+  </Student>
+  <Student>
+    <Id>5</Id>
+    <FirstName>Adam</FirstName>
+    <Lastname>Małysz</Lastname>
+    <Comments />
+    <Math>4</Math>
+    <Technology>4</Technology>
+    <Physics>4</Physics>
+    <PolishLang>4</PolishLang>
+    <ForeignLang>4</ForeignLang>
+    <AdditionalActivities>false</AdditionalActivities>
+    <GroupID>1 A</GroupID>
+  </Student>
+  <Student>
+    <Id>8</Id>
+    <FirstName>Edward</FirstName>
+    <Lastname>Gierek</Lastname>
+    <Comments />
+    <Math>5</Math>
+    <Technology>5</Technology>
+    <Physics>5</Physics>
+    <PolishLang>5</PolishLang>
+    <ForeignLang>5</ForeignLang>
+    <AdditionalActivities>true</AdditionalActivities>
+    <GroupID>1 C</GroupID>
+  </Student>
+  <Student>
+    <Id>3</Id>
+    <FirstName>Juliusz</FirstName>
+    <Lastname>Słowacki</Lastname>
+    <Comments />
+    <Math>5</Math>
+    <Technology>4</Technology>
+    <Physics>3</Physics>
+    <PolishLang>2</PolishLang>
+    <ForeignLang>1</ForeignLang>
+    <AdditionalActivities>true</AdditionalActivities>
+    <GroupID>1 A</GroupID>
+  </Student>
+  <Student>
+    <Id>1</Id>
+    <FirstName>Adam</FirstName>
+    <Lastname>Mickiewicz</Lastname>
+    <Comments />
+    <Math>5</Math>
+    <Technology>4</Technology>
+    <Physics>3</Physics>
+    <PolishLang>2</PolishLang>
+    <ForeignLang>1</ForeignLang>
+    <AdditionalActivities>true</AdditionalActivities>
+    <GroupID>1 C</GroupID>
+  </Student>
+  <Student>
+    <Id>6</Id>
+    <FirstName>Ronald</FirstName>
+    <Lastname>Reagan</Lastname>
+    <Comments />
+    <Math>5</Math>
+    <Technology>4</Technology>
+    <Physics>5</Physics>
+    <PolishLang>4</PolishLang>
+    <ForeignLang>5</ForeignLang>
+    <AdditionalActivities>false</AdditionalActivities>
+    <GroupID>1 B</GroupID>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <FirstName>Maria</FirstName>
+    <Lastname>Skłodowska</Lastname>
+    <Comments />
+    <Math>5</Math>
+    <Technology>4</Technology>
+    <Physics>3</Physics>
+    <PolishLang>2</PolishLang>
+    <ForeignLang>1</ForeignLang>
+    <AdditionalActivities>false</AdditionalActivities>
+    <GroupID>1 C</GroupID>
+  </Student>
+</ArrayOfStudent>
